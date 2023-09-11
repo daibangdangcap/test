@@ -1,2 +1,3 @@
-console.log('hello')
-console.log('Hello 112')
+
+
+var a=0;
