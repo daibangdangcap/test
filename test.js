@@ -8,3 +8,4 @@ var z=0;
 var hello='hellooooooooooooooo'
 var abc=0
 var z=12334
+var hello='ji'
